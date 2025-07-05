@@ -4,8 +4,8 @@ import Home from './page';
 import AboutPage from '../components/about';
 
 export const metadata = {
-  title: 'My Next.js App',
-  description: 'App Router Layout Example',
+  title: 'Therapist App',
+  description: 'Compassionate therapy for personal growth and well-being',
 };
 
 export default function RootLayout({ children }) {
